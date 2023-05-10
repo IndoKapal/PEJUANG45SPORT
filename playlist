@@ -1,32 +1,10 @@
-<!doctype html>
-<html lang="id">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="0; url=https://www.sstp.cloudns.pro/">
-    <meta http-equiv="pragma" content="no-cache">
-    <meta http-equiv="expires" content="-1">
-    <link rel="icon" href="favicon.ico" />
-	<title>Mirror CloudTV</title>
-
-</head>
-<body>
-
-<noscript>
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://weareblahs.github.io/epg/mytv.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/en/bein.com.xml,https://iptv-org.github.io/epg/guides/ar/beinsports.com.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml,https://iptv-org.github.io/epg/guides/sr/tvarenasport.com.xml,https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml" refresh="3600"
-
-
-//Mirror XTREAM Playlist (4-05-2023)
-//Sawer kami untuk dapat update setiap hari https://saweria.co/koudek/
-
-
+#EXTM3U
 
 //Astro Sports
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/astrocricket.webp" group-title="Astro Sports",Astro Cricket
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/26KVZcv/20230510-130106.png" group-title="Astro Sports",Astro Cricket
 https://webuit.salamus1.lol/lb/premium370/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
